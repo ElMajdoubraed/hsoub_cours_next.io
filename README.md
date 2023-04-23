@@ -1,8 +1,19 @@
-<div dir="rtl">
-<h1> مسار إنشاء تطبيق أسئلة وأجوبة باستخدام Next.js </h1>
-<p>الشيفرة المصدرية الخاصة بمسار إنشاء تطبيق أسئلة وأجوبة باستخدام Next.js ضمن دورة "تطوير التطبيقات باستخدام JavaScript" المقدمة من أكاديمية حسوب</p>
+## Hsoub course Next.io
 
-<div>
-<a href="https://academy.hsoub.com/learn/javascript-application-development/">دورة تطوير التطبيقات باستخدام JavaScript</a>
-</div>
-</div>
+### Requirements
+
+- Nodejs 16 use https://github.com/nvm-sh/nvm to be able to switch between different node version
+- Nextjs `npm i next`
+if you are using other porjects that require other version of nodejs then you migh need to use https://github.com/nvm-sh/nvm
+
+#### Running
+
+Open terminal, and run
+` npm install && npm run dev`
+
+```sh
+npm run dev
+```
+### Project url
+
+Project url: https://hsoub-next.elmajdoub.live
